@@ -6,6 +6,14 @@ body {
   font-size: 13px; line-height: 15px;
   background: #EEE4B9;
 }
+h2.content {
+  padding: 1em; margin: 0;
+  color:#1E90FF;
+}
+p{
+  color:#8D0D19; 
+}
+#header h1{align:center;padding: 1em; margin: 0;}
 img { border: none; }
 a { color: #8D0D19; }
 a:hover { color: #1A446C; }
@@ -15,5 +23,3 @@ a:hover { color: #1A446C; }
 	margin: 0; padding: 0; text-align: center;
   background: #8D0D19; color: #D4E6F4;
 }
-#header h1{align:center;padding: 1em; margin: 0;}
-h2 { padding: 1em; margin: 0; }
